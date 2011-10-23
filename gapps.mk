@@ -13,6 +13,7 @@ PRODUCT_COPY_FILES += \
     vendor/google/system/app/LatinImeTutorial.apk:system/app/LatinImeTutorial.apk \
     vendor/google/system/app/MarketUpdater.apk:system/app/MarketUpdater.apk \
     vendor/google/system/app/MediaUploader.apk:system/app/MediaUploader.apk \
+    vendor/google/system/app/Music2.apk:system/app/Music2.apk\
     vendor/google/system/app/NetworkLocation.apk:system/app/NetworkLocation.apk \
     vendor/google/system/app/OneTimeInitializer.apk:system/app/OneTimeInitializer.apk \
     vendor/google/system/app/SetupWizard.apk:system/app/SetupWizard.apk \
